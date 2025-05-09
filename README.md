@@ -21,9 +21,10 @@
    ```bash
    git clone https://github.com/Amir0512/predictive_maintenance_project
    ```
-2. Установить зависимости:
+2. Перейти в папку проекта и установить зависимости:
 
    ```bash
+   cd predictive_maintenance_project
    pip install -r requirements.txt
    ```
 3. Запустить приложение:
