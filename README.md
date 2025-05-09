@@ -52,6 +52,4 @@ predictive_maintenance_project/
 
 ### Видео-демонстрация
 
-<video src="https://github.com/Amir0512/predictive_maintenance_project/blob/main/video.mp4?raw=true" controls width="700"></video>
-
-
+https://github.com/user-attachments/assets/f2a7df18-0096-49eb-93d9-eeeb15712c3e
