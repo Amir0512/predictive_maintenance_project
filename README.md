@@ -46,11 +46,11 @@ predictive_maintenance_project/
 ├── presentation.py      # Раздел с презентацией результатов
 ├── requirements.txt     # Список пакетов Python
 ├── predictive_maintenance # Исходные CSV-файлы с данными
-├── video.mov            # Видео-демонстрация проекта
+├── video.mp4            # Видео-демонстрация проекта
 └── README.md            # Описание проекта 
 ```
 
 ### Видео-демонстрация
 
-[Посмотреть демо на GitHub](https://github.com/Amir0512/predictive_maintenance_project/blob/main/video.mov)
+[Посмотреть демо на GitHub](https://github.com/Amir0512/predictive_maintenance_project/blob/main/video.mp4)
 
